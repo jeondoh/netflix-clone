@@ -4,11 +4,15 @@
 <img src="https://img.shields.io/badge/-typescript 4.5.5-3178C6?style=plastic&logo=Typescript&logoColor=white"/>
 
 ### npm (CRA project to typescript)
-- recoil: 0.5.2
-- react-query: 3.34.12
-- react-router-dom: 6.2.1
-- framer-motion: 6.2.3
-- styled-components: 5.3.3
+- recoil : 0.5.2
+- react-query : 3.34.12
+- react-router-dom : 6.2.1
+- react-hook-form : 7.25.1
+- framer-motion : 6.2.3
+- styled-components : 5.3.3
 
 ### Dev List
-- .
+- Get Movie API data
+- Slide movie Images
+- show detail when hover slider Image
+- To use framer-motion, animated pages
